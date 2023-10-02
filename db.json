@@ -1,0 +1,23 @@
+{
+    "data": {
+      "date": "2023-10-01",
+      "stockLocationID": "1",
+      "skuID": "1",
+      "Buffer": "10",
+      "InventoryAtSite": "1",
+      "InventoryAtTransit": "0",
+      "replenishmentTime": "7",
+      "avoidReplenishment": "0",
+      "minimumReplenishment": "0",
+      "sales": "5",
+      "BP_Site_Color": "red",
+      "BP_transit_Color": "black",
+      "unitPrice": "100.00",
+      "Throughput": "60.00",
+      "TVC": "40.00",
+      "InventoryAtCD": "100",
+      "replenishmentQuantity": "9",
+      "inventoryNeeded": "9"
+    }
+  }
+  
